@@ -53,8 +53,7 @@ beta program leader to sign you up for the beta migration program.
 
 See the answer for "Will you eventually decommission your public cloud?".
 
-#### Will you also build better migration capabilities for other public clouds,
-such as Azure?
+#### Will you also build better migration capabilities for other public clouds, such as Azure?
 
 Rackspace is excited about our
 [Fanatical Support for Azure offering] (https://www.rackspace.com/en-us/microsoft/managed-azure-cloud)
