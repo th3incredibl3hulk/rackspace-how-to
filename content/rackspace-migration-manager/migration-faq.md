@@ -35,8 +35,7 @@ to invest in it. We are simply making it easier for customers who want to
 migrate to AWS infrastructure to do so, while keeping the Rackspace expertise
 and support that they value.
 
-#### Is it true that your sales representatives are no longer available to new
-buyers of your public cloud?
+#### Is it true that your sales representatives are no longer available to new buyers of your public cloud?
 
 No, that is not true. We continue to sell our OpenStack public cloud
 through sales representatives and through our website.
@@ -50,8 +49,7 @@ can accommodate. If you want to participate in the beta program or learn
 more about it, engage with your account manager, who will work with the
 beta program leader to sign you up for the beta migration program.
 
-#### What happens after the beta program? Are you considering a decommission
-of your public cloud then?
+#### What happens after the beta program? Are you considering a decommission of your public cloud then?
 
 See the answer for "Will you eventually decommission your public cloud?".
 
