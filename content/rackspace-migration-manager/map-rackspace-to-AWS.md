@@ -13,28 +13,14 @@ product_url: rackspace-migration-manager
 
 This article helps you map Rackspace infrastructure products to Amazon Web Services (AWS) infrastructure as a service (IaaS) products. Being aware of this information should make your migration as seamless as possible.
 
+In the initial release of the Rackspace Migration Manager, the products in the following table are supported for migration.
+
 | Rackspace product | Corresponding AWS product |
 | --- | --- |
 | [Cloud Servers product](http://www.rackspace.com/cloud/servers)<br />[Cloud Servers API](https://developer.rackspace.com/docs/cloud-servers/v2/developer-guide/) | Amazon EC2 |
-| [Cloud Load Balancers product](http://www.rackspace.com/cloud/load-balancing)<br />[Cloud Load Balancers API](https://developer.rackspace.com/docs/cloud-load-balancers/v1/developer-guide/) | Elastic Load Balancing|
-| [Rackspace Cloud Big Data Platform product](https://www.rackspace.com/cloud/big-data) | Amazon EMR |
 | [Cloud Networks product](https://www.rackspace.com/cloud/networks) | Amazon VPC |
-| [Cloud DNS product](https://www.rackspace.com/cloud/dns) | Amazon Route 53 |
-| [RackConnect](https://www.rackspace.com/cloud/hybrid/rackconnect) | AWS Direct Connect |
-| [Cloud Files product](http://www.rackspace.com/cloud/files)<br />[Cloud Files API](https://developer.rackspace.com/docs/cloud-files/v1/developer-guide/) | Amazon S3 |
-| [Cloud Backup product](https://www.rackspace.com/cloud/backup) | Amazon Glacier |
 | [Cloud Block Storage product](http://www.rackspace.com/cloud/block-storage)<br />[Cloud Block Storage API](https://developer.rackspace.com/docs/cloud-block-storage/v1/developer-guide/) | Amazon EBS |
-| Hard Drive Import/Export | AWS Import/Export |
-| Multiple Partner solutions available | AWS Storage Gateway |
-| [Rackspace CDN product](http://www.rackspace.com/cloud/cdn-content-delivery-network)<br />[Rackspace CDN API](https://developer.rackspace.com/docs/cdn/v1/developer-guide/) | Amazon CloudFront |
-| [Cloud Databases product](https://www.rackspace.com/cloud/databases)<br />[Cloud Databases API](https://developer.rackspace.com/docs/cloud-databases/v1/developer-guide/) | Amazon RDS |
-| Object Rocket (MongoDB - open) | Amazon DynamoDB |
-| Partner solutions - [Mailgun](https://www.mailgun.com/) |
-| Elastic Transcoder | Partner solutions - [Enterprise Media Processing](https://www.encoding.com/) | Amazon SES, SNS |
-| [Cloud Control Panel](http://mycloud.rackspace.com) | IAM & Mgmt Console |
-| [Cloud Monitoring product](http://www.rackspace.com/cloud/monitoring)<br />[Cloud Monitoring API](https://developer.rackspace.com/docs/cloud-monitoring/v1/developer-guide/) | AWS CloudWatch |
-| Deployments | AWS CloudFormation |
-| Non Core - Partner | CloudSearch & Redshift |
+
 
 ### Mapping of Rackspace Cloud instance types to Amazon EC2 instance types
 
@@ -56,4 +42,4 @@ instance size for your AWS Cloud.
 
 ### Fanatical Support
 
-[Rackspace Support](http://www.rackspace.com/whyrackspace/support)
+[Rackspace Support](https://www.rackspace.com/support)
