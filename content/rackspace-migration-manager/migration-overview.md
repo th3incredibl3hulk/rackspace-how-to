@@ -5,7 +5,7 @@ title: Cloud migration overview
 type: article
 created_date: '2017-02-20'
 created_by: Catherine Richardson
-last_modified_date: '2017-06-07'
+last_modified_date: '2017-06-09'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
@@ -18,14 +18,14 @@ Fanatical Support for Amazon Web Services (AWS).
 The Rackspace Migration Manager is intuitive and easy to navigate, and provides a quick and secure migration between Rackspace and Fanatical Support for AWS. With a little planning on your part, the Rackspace Migration Manager steps you easily through the migration process.
 
 The migration process leverages both Rackspace and AWS APIs to securely move
-resources. The Rackspace source environment is not impacted as the migration to the Fanatical Support for AWS target environment takes place.
+resources. The customer's existing resources are not impacted during the migration.
 
 Using the Rackspace Migration Manager, simply select the resources that you
 want to migrate from the Rackspace Public Cloud to Fanatical Support for AWS.
 We will provide you with our recommended Fanatical Support for AWS environment
 setup, but you are free to customize configurations as well. Along the way,
 the Rackspace Migration Manager keeps you informed of the current pricing of
-your selected resources and what you can expect for pricing after you have migrated to Fanatical Support for AWS. Finally, simply schedule the best time for your migration to take place, and track progress as things begin migrating from the migration dashboard within the manager tool.
+your selected resources and what you can expect for pricing after you have migrated to Fanatical Support for AWS. Finally, simply schedule the best time for your migration to take place, and track progress as resources begin migrating from the migration dashboard within the manager tool.
 
 The following diagram shows the flow of the migration from Rackspace to AWS.
 
