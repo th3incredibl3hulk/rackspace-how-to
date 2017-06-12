@@ -5,7 +5,7 @@ title: Cloud migration overview
 type: article
 created_date: '2017-02-20'
 created_by: Catherine Richardson
-last_modified_date: '2017-06-09'
+last_modified_date: '2017-06-12'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
@@ -26,10 +26,6 @@ We will provide you with our recommended Fanatical Support for AWS environment
 setup, but you are free to customize configurations as well. Along the way,
 the Rackspace Migration Manager keeps you informed of the current pricing of
 your selected resources and what you can expect for pricing after you have migrated to Fanatical Support for AWS. Finally, simply schedule the best time for your migration to take place, and track progress as resources begin migrating from the migration dashboard within the manager tool.
-
-The following diagram shows the flow of the migration from Rackspace to AWS.
-
-<<Insert diagram here when available>>
 
 
 ### Professional Services
