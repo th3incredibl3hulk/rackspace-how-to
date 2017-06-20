@@ -47,7 +47,9 @@ those best practices.
 ###Phase 2: Migration###
 
 1. Start small and simple. The more your staff becomes comfortable with AWS
-   services, and the faster your stakeholders see the benefits, the easier it will be to gain acceptance for the vision internally. This requires consistency and transparency.
+   services, and the faster your stakeholders see the benefits, the easier it
+   will be to gain acceptance for the vision internally. This requires
+   consistency and transparency.
 
 2. Provide as much automation as possible. Determine what can be automated and
    give your team the power to make it so.
@@ -63,12 +65,13 @@ those best practices.
    data will enable you to make good decisions about performance and costs.
 
 2. Use cloud-native monitoring tools. Use the tools that best fit
-the business. Your operations people will thank you in the long run, and your
-business owners will have clearer data points to base their decisions on.
+   the business. Your operations people will thank you in the long run, and
+   your business owners will have clearer data points to base their decisions
+   on.
 
 3. Leverage Rackspace support. The Rackspace Technical Account Managers are
-invaluable resources. They get to be part of your broader virtual cloud team
-and can provide invaluable source of technical information and guidance.
+   invaluable resources. They get to be part of your broader virtual cloud team
+   and can provide invaluable source of technical information and guidance.
 
 
 ###For mass migrations (migrating many applications at one time)###
@@ -83,13 +86,22 @@ and can provide invaluable source of technical information and guidance.
 
 4. Consider many different criteria when deciding on the migration strategy
    for a particular application -- business objectives, the roadmap,
-   risk, costs, and so on. You will either make a decision to move the application as-is or modify it in some fashion. Try to use best practices for resiliency and cost savings, and abstract the underlying infrastructure when you can. Some common options are auto-scaling, load-balancing, multi-AZ scenarios, and right-sizing EC2 instances.
+   risk, costs, and so on. You will either make a decision to move the
+   application as-is or modify it in some fashion. Try to use best practices
+   for resiliency and cost savings, and abstract the underlying infrastructure
+   when you can. Some common options are auto-scaling, load-balancing,
+   multi-AZ scenarios, and right-sizing EC2 instances.
 
 5. Find patterns and create blueprints for them. Migration patterns will
-   emerge based on the strategy chosen. Creating re-usable blueprints for those patterns. Share them with the migration teams.
+   emerge based on the strategy chosen. Creating re-usable blueprints for
+   those patterns. Share them with the migration teams.
 
 6. Test your applications. Each application component should go through
-   predetermined, well-documented tests. Osign-off from the business owners will be a lot smoother if you ask the application owners to provide you with the test plans early on in the project. A template that is used by all application owners would be best. Update the template with their specific testing requirements.
+   predetermined, well-documented tests. Sign-off from the business owners
+   will be a lot smoother if you ask the application owners to provide you
+   with the test plans early on in the project. A template that is used by all
+   application owners would be best. Update the template with their specific
+   testing requirements.
 
 7. Be sure that there is great communication with all the teams involved.
    Document all migration decisions and make sure everyone agrees with them.
