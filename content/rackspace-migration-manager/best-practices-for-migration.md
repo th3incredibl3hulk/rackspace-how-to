@@ -16,7 +16,14 @@ customers, they have discovered some best practices for migrating between cloud
 platforms quickly and effectively. This article provides a list of some of
 those best practices.
 
-The Rackspace Migration Manager uses the "re-host" method for migration. This method moves an application to AWS by making little or no changes to its architecture and configuration. Re-hosting is sometimes called “lift and shift”. This method is well suited for applications with well-defined architectures, where components and data are strongly coupled between each other. This method allows enterprises to take in-house and highly-customised applications and replicate them in the AWS cloud without modifying their design.
+The Rackspace Migration Manager uses the "re-host" method for migration. This
+method moves an application to AWS by making little or no changes to its
+architecture and configuration. Re-hosting is sometimes called “lift and
+shift”. This method is well suited for applications with well-defined
+architectures, where components and data are strongly coupled between each
+other. This method allows enterprises to take in-house and highly-customized
+applications and replicate them in the AWS cloud without modifying their
+design.
 
 Other migration approaches are available by engaging with Rackspace Professional Services.
 
