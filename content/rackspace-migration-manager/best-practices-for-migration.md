@@ -16,6 +16,10 @@ customers, they have discovered some best practices for migrating between cloud
 platforms quickly and effectively. This article provides a list of some of
 those best practices.
 
+The Rackspace Migration Manager uses the "re-host" method for migration. This method moves an application to AWS by making little or no changes to its architecture and configuration. Re-hosting is sometimes called “lift and shift”. This method is well suited for applications with well-defined architectures, where components and data are strongly coupled between each other. This method allows enterprises to take in-house and highly-customised applications and replicate them in the AWS cloud without modifying their design.
+
+Other migration approaches are available by engaging with Rackspace Professional Services.
+
 
 ###Phase 1: Before the migration###
 
@@ -51,7 +55,9 @@ those best practices.
 
 1. Start small and simple. For example, you might migrate small workloads
    first, migrate one server at a time, or migrate the pieces that will
-   benefit most from the new environment first. The more your staff becomes comfortable with AWS services, the easier it will be to gain acceptance internally. This requires consistency and transparency.
+   benefit most from the new environment first. The more your staff becomes
+   comfortable with AWS services, the easier it will be to gain acceptance
+   internally. This requires consistency and transparency.
 
 2. Provide as much automation as possible. Determine what can be automated and
    give your team the power to make it so.
@@ -64,10 +70,12 @@ those best practices.
 ###Phase 3: After the migration###
 
 1. Have a monitoring strategy in place that monitors your most important
-   items to monitor. Monitoring data will enable you to make good decisions about performance and costs.
+   items to monitor. Monitoring data will enable you to make good decisions
+   about performance and costs.
 
 2. Use the monitoring tools that best fit the business. Your operations people
-   will thank you in the long run, and your business owners will have clearer data points to base their decisions on.
+   will thank you in the long run, and your business owners will have clearer
+   data points to base their decisions on.
 
 3. Leverage Rackspace support. The Rackspace Technical Account Managers are
    invaluable resources. They get to be part of your broader virtual cloud team
@@ -89,7 +97,9 @@ those best practices.
    application as-is or modify it in some fashion.
 
 5. Try to use best practices for resiliency and cost savings, and abstract the
-   underlying infrastructure when you can. Some common options are auto-scaling, load-balancing, multi-AZ scenarios, and right-sizing EC2 instances.
+   underlying infrastructure when you can. Some common options are
+   auto-scaling, load-balancing, multi-AZ scenarios, and right-sizing EC2
+   instances.
 
 6. Find patterns and create blueprints for them. Migration patterns will
    emerge based on the strategy chosen. Create re-usable blueprints for
@@ -105,4 +115,6 @@ those best practices.
 8. Be sure that there is great communication with all the teams involved.
    Document all migration decisions and make sure everyone agrees with them.
    Be sure that the teams across the organization, including those not directly
-   involved in the migration, are aware of any down time, changes of IP addresses, or URLs. Also, let any third parties that might have access to your systems know what is going on.
+   involved in the migration, are aware of any down time, changes of IP
+   addresses, or URLs. Also, let any third parties that might have access to
+   your systems know what is going on.
