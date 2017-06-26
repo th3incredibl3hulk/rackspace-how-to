@@ -25,7 +25,8 @@ other. This method allows enterprises to take in-house and highly-customized
 applications and replicate them in the AWS cloud without modifying their
 design.
 
-Other migration approaches are available by engaging with Rackspace Professional Services.
+Other migration approaches are available by engaging with Rackspace
+Professional Services.
 
 
 ###Phase 1: Before the migration###
