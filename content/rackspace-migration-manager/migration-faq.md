@@ -9,6 +9,7 @@ last_modified_date: '2018-02-13'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
+noindex: true
 ---
 
 Get quick answers to common questions about migrating from Rackspace to Amazon
