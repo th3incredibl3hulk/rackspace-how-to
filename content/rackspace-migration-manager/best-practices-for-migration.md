@@ -5,7 +5,7 @@ title: Best practices for migration
 type: product
 created_date: '2017-06-12'
 created_by: Catherine Richardson
-last_modified_date: '2017-06-26'
+last_modified_date: '2017-07-05'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
