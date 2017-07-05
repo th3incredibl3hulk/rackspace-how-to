@@ -5,7 +5,7 @@ title: Cloud migration overview
 type: article
 created_date: '2017-02-20'
 created_by: Catherine Richardson
-last_modified_date: '2017-06-12'
+last_modified_date: '2017-07-05'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
