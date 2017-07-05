@@ -9,6 +9,7 @@ last_modified_date: '2017-06-12'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
+noindex: true
 ---
 
 With the Rackspace Migration Manager, Rackspace provides an easy self-service migration tool. In this initial phase, the Rackspace Migration Manager is
