@@ -9,6 +9,7 @@ last_modified_date: '2017-06-26'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
+noindex: true
 ---
 
 As Rackspace Professional Services has worked on migration projects for our
