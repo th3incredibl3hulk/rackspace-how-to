@@ -9,6 +9,7 @@ last_modified_date: '2017-06-09'
 last_modified_by: Catherine Richardson
 product: Rackspace Migration Manager
 product_url: rackspace-migration-manager
+noindex: true
 ---
 
 This article helps you map Rackspace infrastructure products to Amazon Web Services (AWS) infrastructure as a service (IaaS) products. Being aware of this information should make your migration as seamless as possible.
