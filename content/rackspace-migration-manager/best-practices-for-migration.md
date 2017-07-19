@@ -79,11 +79,11 @@ Professional Services.
 ###Phase 3: After the migration###
 
 1. Have a monitoring strategy in place that monitors your most important
-   items to monitor. Monitoring data will enable you to make good decisions
+   items. Monitoring data will enable you to make good decisions
    about performance and costs.
 
 2. Use the monitoring tools that best fit the business. Your operations people
-   will thank you in the long run, and your business owners will have clearer
+   will thank you in the long run and your business owners will have clearer
    data points to base their decisions on.
 
 3. Leverage Rackspace support. The Rackspace Technical Account Managers are
