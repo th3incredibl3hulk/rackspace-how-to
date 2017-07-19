@@ -20,7 +20,7 @@ Web Services (AWS).
 #### Why are you helping customers move from your public cloud to AWS?
 
 Rackspace provides expertise and support for the world's leading clouds,
-including our OpenStack public cloud, AWS, and Microsoft Azure. Rackspace
+including our OpenStack public cloud, AWS, Google Cloud Platform and Microsoft Azure. Rackspace
 gives customers a choice of the leading clouds and helps them find the best
 fit for each of their workloads. Rackspace constantly seeks new ways to serve
 customers, often starting with a beta program. At the moment, we're working on
@@ -32,7 +32,7 @@ tooling, and support through our popular
 #### Will you eventually decommission your public cloud?
 
 Rackspace has made no decision to decommission our public cloud. We continue
-to invest in it. We are simply making it easier for customers who want to
+to invest in it with development, engineering and operations resources. We are simply making it easier for customers who want to
 migrate to AWS infrastructure to do so, while keeping the Rackspace expertise
 and support that they value.
 
@@ -48,17 +48,12 @@ through sales representatives and through our website.
 Like any beta program, this one is limited in the number of customers that it
 can accommodate. If you want to participate in the beta program or learn
 more about it, engage with your account manager, who will work with the
-beta program leader to sign you up for the beta migration program.
+beta program leader to evaluate you up for the beta migration program.
 
-#### What happens after the beta program? Are you considering a decommission of your public cloud then?
-
-See the answer for "Will you eventually decommission your public cloud?".
-
-#### Will you also build better migration capabilities for other public clouds, such as Azure?
+#### Will you also build better migration capabilities for other public clouds, such as Azure or Google?
 
 Rackspace is excited about our
-[Fanatical Support for Azure offering] (https://www.rackspace.com/en-us/microsoft/managed-azure-cloud)
-and also about the growth that Azure is experiencing. Our assessment is that
+[Fanatical Support for Azure offering] (https://www.rackspace.com/en-us/microsoft/managed-azure-cloud) and [Managed Services for Google Cloud Platform] (https://www.rackspace.com/managed-google-cloud). Our assessment is that
 AWS is the preferred destination for most of our customers who want to migrate
 today, so our strategy is to begin with solutions in the area with the highest
-demand.
+demand and evaluate other migration opportunities across a variety of platforms,
