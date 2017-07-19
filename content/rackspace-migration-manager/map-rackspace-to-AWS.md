@@ -14,7 +14,7 @@ noindex: true
 
 This article helps you map Rackspace infrastructure products to Amazon Web Services (AWS) infrastructure as a service (IaaS) products. Being aware of this information should make your migration as seamless as possible.
 
-In the initial release of the Rackspace Migration Manager, the products in the following table are supported for migration.
+In the initial release of the Rackspace Migration Manager, the products in the following table are supported for migration.  Please note that Amazon products are different than Rackspace products so these estimates are best approximations but you should pay attention to your environment and make changes as needed.  Over time, we expect we'll add more products to this table at which point we'll map back to AWS products in the same way.
 
 | Rackspace product | Corresponding AWS product |
 | --- | --- |
